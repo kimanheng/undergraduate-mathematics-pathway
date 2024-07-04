@@ -12,11 +12,13 @@
     <li><a href="#analysis">Analysis</a></li>
     <li><a href="#algebra">Algebra</a></li>
     <li><a href="#topology">Topology</a></li>
+    <li><a href="#geometry">Geometry</a></li>
     <li><a href="#seminars">Seminars</a></li>
   </ul>
+  <li><a href="#elective-mathematics">Elective Mathematics</li>
 </ul>
 <h1>Preface</h1>
-<p>The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathematics using online resources from <a href="https://ocw.mit.edu/">MIT OpenCourseWare</a> that meet the requirement for the <b>Bachelor of Science in Mathematics</b> degree. The pathway is structured to have core mathematics courses, advanced mathematics courses, and notable mathematics courses.</p>
+<p>The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathematics using online resources from <a href="https://ocw.mit.edu/">MIT OpenCourseWare</a> that meet the requirement for the <b>Bachelor of Science in Mathematics</b> degree. The pathway is structured to have core mathematics courses, advanced mathematics courses, and elective mathematics courses.</p>
 
 <h1>Core Mathematics</h1>
 <table>
@@ -107,7 +109,7 @@
       <a href="https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/">
         Fourier Analysis</a></td>
     <td>18.102</td>
-    <td>Linear Algebra (18.06 or 18.700), Algebra I (18.701) or Analysis I(18.100)</td>
+    <td>Linear Algebra (18.06 or 18.700), Algebra I (18.701) or Analysis I (18.100)</td>
   </tr>
 </table>
 <h2>Algebra</h2>
@@ -217,5 +219,55 @@
         Seminar in Geometry</a></td>
     <td>18.994</td>
     <td>Differential Geometry (18.950), Analysis II (18.101)</td>
+  </tr>
+</table>
+<h1>Elective Mathematics</h1>
+<table>
+  <tr>
+    <th>Courses</th>
+    <th>#</th>
+    <th>Prerequisites</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-a34-mathematical-problem-solving-putnam-seminar-fall-2018/">
+        Mathematical Problem Solving (Putnam Seminar)</a></td>
+    <td>18.A34</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-091-mathematical-exposition-spring-2005/">
+        Mathematical Exposition</a></td>
+    <td>18.091</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-152-introduction-to-partial-differential-equations-fall-2011/">
+        Introduction to Partial Differential Equations</a></td>
+    <td>18.152</td>
+    <td>Linear Algebra (18.06 or 18.700) or Algebra I (18.701) and Analysis I (18.100)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-304-undergraduate-seminar-in-discrete-mathematics-spring-2015/">
+        Undergraduate Seminar in Discrete Mathematics</a></td>
+    <td>18.304</td>
+    <td>Linear Algebra (18.06 or 18.700) or Algebra I (18.701)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/24-241-logic-i-fall-2009/">
+        Logic I</a></td>
+    <td>24.241</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/24-242-logic-ii-spring-2004/">
+        Logic II</a></td>
+    <td>24.242</td>
+    <td></td>
   </tr>
 </table>
