@@ -5,19 +5,20 @@
 </div>
 <h1>Contents</h1>
 <ul>
-  <li><a href="">Preface</a></li>
-  <li><a href="">Core Mathematics</a></li>
-  <li><a href="">Applied Mathematics</li>
+  <li><a href="#preface">Preface</a></li>
+  <li><a href="#core-mathematics">Core Mathematics</a></li>
+  <li><a href="#advanced-mathematics">Advanced Mathematics</li>
   <ul>
-    <li><a href="">Analysis</a></li>
-    <li><a href="">Algebra</a></li>
+    <li><a href="#analysis">Analysis</a></li>
+    <li><a href="#algebra">Algebra</a></li>
+    <li><a href="#topology">Topology</a></li>
+    <li><a href="#seminars">Seminars</a></li>
   </ul>
 </ul>
 <h1>Preface</h1>
-The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathematics using online resources from MIT OpenCourseWare that meet the requirement for the <b>Bachelor of Science in Mathematics</b> degree. The pathway is structured to have core mathematics courses, advanced mathematics courses, and elective mathematics courses.
+<p>The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathematics using online resources from <a href="https://ocw.mit.edu/">MIT OpenCourseWare</a> that meet the requirement for the <b>Bachelor of Science in Mathematics</b> degree. The pathway is structured to have core mathematics courses, advanced mathematics courses, and notable mathematics courses.</p>
 
 <h1>Core Mathematics</h1>
-<p>18.04, 18.05 are more towards applied mathematics.</p>
 <table>
   <tr>
     <th>Courses</th>
@@ -65,6 +66,7 @@ The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathem
 </table>
 
 <h1>Advanced Mathematics</h1>
+18.100, 18.701, 18.702, 18.901 are required subjects, otherwise choose to your interest.
 <h2>Analysis</h2>
 <table>
   <tr>
@@ -90,8 +92,22 @@ The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathem
     <td>
       <a href="https://ocw.mit.edu/courses/18-101-analysis-ii-fall-2005/">
         Analysis II</a></td>
-    <td>18.1001</td>
+    <td>18.101</td>
     <td>Analysis I (18.100B) and Algebra (18.701)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-102-introduction-to-functional-analysis-spring-2021/">
+        Introduction to Functional Analysis</a></td>
+    <td>18.102</td>
+    <td>Linear Algebra (18.06 or 18.700) or Algebra I (18.701) and Analysis I (18.100)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-103-fourier-analysis-fall-2013/">
+        Fourier Analysis</a></td>
+    <td>18.102</td>
+    <td>Linear Algebra (18.06 or 18.700), Algebra I (18.701) or Analysis I(18.100)</td>
   </tr>
 </table>
 <h2>Algebra</h2>
@@ -113,7 +129,7 @@ The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathem
       <a href="https://ocw.mit.edu/courses/18-701-algebra-i-fall-2010/">
         Algebra I</a></td>
     <td>18.701</td>
-    <td>Linear Algebra (18.700) and Analysis I (18.10B)</td>
+    <td>Linear Algebra (18.700) and Analysis I (18.100B)</td>
   </tr>
   <tr>
     <td>
@@ -130,12 +146,49 @@ The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathem
     <td>Multivariable Calculus (18.02)</td>
   </tr>
 </table>
-<h3>Seminars</h3>
+<h2>Topology</h2>
 <table>
   <tr>
     <th>Courses</th>
     <th>#</th>
     <th>Prerequisites</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-901-introduction-to-topology-fall-2004/">
+        Introduction to Topology</a></td>
+    <td>18.901</td>
+    <td>Analysis I (18.100B)</td>
+  </tr>
+</table>
+<h2>Geometry</h2>
+<table>
+  <tr>
+    <th>Courses</th>
+    <th>#</th>
+    <th>Prerequisites</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-950-differential-geometry-fall-2008/">
+        Differential Geometry</a></td>
+    <td>18.950</td>
+    <td>Linear Algebra (18.06 or 18.700) or Algebra I (18.701) and Analysis I (18.100)</td>
+  </tr>
+</table>
+<h2>Seminars</h2>
+<table>
+  <tr>
+    <th>Courses</th>
+    <th>#</th>
+    <th>Prerequisites</th>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-104-seminar-in-analysis-applications-to-number-theory-fall-2006/">
+        Seminar in Analysis: Applications to Number Theory</a></td>
+    <td>18.104</td>
+    <td>Analysis I (18.100)</td>
   </tr>
   <tr>
     <td>
@@ -150,5 +203,19 @@ The <b>Undergraduate Mathematics Pathway</b> is a complete course in pure mathem
         Seminar in Algebra and Number Theory: Computational Commutative Algebra and Algebraic Geometry</a></td>
     <td>18.704</td>
     <td>Linear Algebra (18.06 or 18.700) or Algebra I (18.701)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-904-seminar-in-topology-spring-2011/">
+        Seminar in Topology</a></td>
+    <td>18.904</td>
+    <td>Introduction to Topology (18.901)</td>
+  </tr>
+  <tr>
+    <td>
+      <a href="https://ocw.mit.edu/courses/18-994-seminar-in-geometry-fall-2004/">
+        Seminar in Geometry</a></td>
+    <td>18.994</td>
+    <td>Differential Geometry (18.950), Analysis II (18.101)</td>
   </tr>
 </table>
