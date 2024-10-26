@@ -258,6 +258,25 @@
   </tr>
   <tr>
     <td>
+      <a href="">
+        Topics in Mathematics With Applications in Finance</a></td>
+    <td>18.S096</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="">Introduction to MATLAB Programming</a></td>
+    <td>18.S997</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
+      <a href="">Nonlinear Dynamics: Chaos</a></td>
+    <td>18.353J</td>
+    <td></td>
+  </tr>
+  <tr>
+    <td>
       <a href="https://ocw.mit.edu/courses/24-241-logic-i-fall-2009/">
         Logic I</a></td>
     <td>24.241</td>
